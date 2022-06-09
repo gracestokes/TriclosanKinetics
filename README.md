@@ -1,2 +1,2 @@
 # TriclosanKinetics
-General Chemsitry Lab W2022
+General Chemistry Lab W2022
